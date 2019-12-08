@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg) ](LICENSE)
+
 ## Command Execution Framework
 ### Description: Using the builder design pattern, I was able to construct an elegant shell command framework in scala
 #### You can obtain this Git Repo using the command `git clone https://github.com/bggolden11/CommandExecutionFramework.git`.
