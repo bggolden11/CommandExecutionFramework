@@ -1,6 +1,6 @@
 ## Brian Goldenberg Homework 3
 ### Description: Using the builder design pattern, I was able to construct an elegant way of using shell commands in scala
-#### You can obtain this Git Repo using the command `git clone git@bitbucket.org:bggolden11/brian_goldenberg_hw3.git`.
+#### You can obtain this Git Repo using the command `git clone https://github.com/bggolden11/CommandExecutionFramework.git`.
 
 ## How to Install and Run the Program
 ##### This program was run on Ubuntu 19.04
