@@ -1,5 +1,5 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg) ](LICENSE)
-[![Actions Status](https://xxx.execute-api.us-west-2.amazonaws.com/production/badge/{bggolden11}/{CommandExecutionFramework})](https://xxx.execute-api.us-west-2.amazonaws.com/production/results/{owner}/{repo})
+[![Actions Status](https://xxx.execute-api.us-west-2.amazonaws.com/production/badge/bggolden11/CommandExecutionFramework)](https://xxx.execute-api.us-west-2.amazonaws.com/production/results/{owner}/{repo})
 
 
 ## Command Execution Framework
