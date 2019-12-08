@@ -3,7 +3,7 @@
 #### You can obtain this Git Repo using the command `git clone https://github.com/bggolden11/CommandExecutionFramework.git`.
 
 ## How to Install and Run the Program
-##### This program was run on Ubuntu 19.04
+##### This program was built and tested on Ubuntu 19.04
 1. Run the following command to pull the repo ```git clone git@bitbucket.org:bggolden11/brian_goldenberg_hw3.git``` 
 2. Then move into the programs directory: ```cd brian_goldenberg_hw3```
 3. Obtain the following jar files: ```sbt: ch.qos.logback:logback-core:1.2.3:jar```, ```  "org.scalactic" %% "scalactic" % "3.0.8"```, and  ```sbt: org.scalatest:scalatest_2.13:3.0.8:jar```
