@@ -1,5 +1,5 @@
-## Brian Goldenberg Homework 3
-### Description: Using the builder design pattern, I was able to construct an elegant way of using shell commands in scala
+## Command Execution Framework
+### Description: Using the builder design pattern, I was able to construct an elegant shell command framework in scala
 #### You can obtain this Git Repo using the command `git clone https://github.com/bggolden11/CommandExecutionFramework.git`.
 
 ## How to Install and Run the Program
