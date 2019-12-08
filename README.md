@@ -1,5 +1,5 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg) ](LICENSE)
-[![Actions Status] (https://github.com/bggolden11/CommandExecutionFramework/workflows/.github/workflows/badge.svg)
+[![Actions Status] (https://github.com/bggolden11/CommandExecutionFramework/workflows/.github/workflows/scala.yml/badge.svg)
 
 
 
