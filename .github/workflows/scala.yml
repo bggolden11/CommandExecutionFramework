@@ -1,4 +1,4 @@
-name: Command Execution Framework Workflow
+name: Command Workflow
 
 on: [push]
 
