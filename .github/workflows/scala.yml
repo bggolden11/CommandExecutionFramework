@@ -1,4 +1,4 @@
-name: CommandCI
+name: Command Execution Framework Workflow
 
 on: [push]
 
