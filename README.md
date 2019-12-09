@@ -1,5 +1,5 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg) ](LICENSE)
-
+![GitHubActionBadge](https://github.com/bggolden11/CommandExecutionFramework/workflows/CommandCI/badge.svg)
 
 
 ## Command Execution Framework
