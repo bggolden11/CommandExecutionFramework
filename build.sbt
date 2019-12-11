@@ -1,4 +1,4 @@
-name := "brian_goldenberg_hw3"
+name := "Command_Execution_Framework"
 
 version := "0.1"
 
