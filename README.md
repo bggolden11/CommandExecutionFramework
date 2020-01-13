@@ -9,8 +9,8 @@
 
 ## How to Install and Run the Program
 ##### This program was built and tested on Ubuntu 19.04
-1. Run the following command to pull the repo ```git clone git@bitbucket.org:bggolden11/brian_goldenberg_hw3.git``` 
-2. Then move into the programs directory: ```cd brian_goldenberg_hw3```
+1. Run the following command to pull the repo ```git clone https://github.com/bggolden11/CommandExecutionFramework.git``` 
+2. Then move into the programs directory: ```cd CommandExecutionFramework```
 3. Obtain the following jar files: ```sbt: ch.qos.logback:logback-core:1.2.3:jar```, ```  "org.scalactic" %% "scalactic" % "3.0.8"```, and  ```sbt: org.scalatest:scalatest_2.13:3.0.8:jar```
     - You may need to download the jar files separably and add them through intellij if it does not initially work. See: [Correct way to add external jars (lib/*.jar) to an IntelliJ IDEA project](https://stackoverflow.com/questions/1051640/correct-way-to-add-external-jars-lib-jar-to-an-intellij-idea-project)
 4. Compile and run the program ```sbt run```
